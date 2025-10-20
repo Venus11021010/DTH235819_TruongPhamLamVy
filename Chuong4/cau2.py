@@ -6,7 +6,7 @@
 # người chơi đoán nhỏ hơn hay lớn hơn số của mày và hiển thị số lần đoán
 # Game kết thúc khi: Đoán sai quá 7 lần hoặc đoán trúng trước 7 lần.
 # Sau khi game kết thúc hỏi người chơi có tiếp tục hay không?
-
+#bai2
 from random import randint
 while True:
     so_may = randint(1, 100)
